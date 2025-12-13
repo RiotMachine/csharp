@@ -1,0 +1,5 @@
+official c# docs
+https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/
+
+solid syntax overview
+https://www.youtube.com/watch?v=irBHuMTDsNg
