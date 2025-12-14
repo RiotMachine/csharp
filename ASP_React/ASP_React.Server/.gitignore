@@ -1,0 +1,5 @@
+bin/
+obj/
+Properties/
+ASP_React*
+appsettings*
